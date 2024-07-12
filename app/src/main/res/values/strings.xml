@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">GithubUsersFav</string>
+    <string name="favorites">Favorites</string>
+    <string name="setting">Settings</string>
+    <string name="searching">Enter Username</string>
+    <string name="usernameDetail">User Detail</string>
+    <string name="followers">Followers:</string>
+    <string name="Followers">Followers</string>
+    <string name="Following">Following</string>
+    <string name="following">Following:</string>
+    <string name="dummyNumber">0</string>
+    <string name="fav">Favorites</string>
+    <string name="userFavourite">User Favourite</string>
+    <string name="settingPage">Settings</string>
+    <string name="darkMode">Dark Mode</string>
+    <string name="lightMode">Light Mode</string>
+    <string name="fav_checked">Favorite</string>
+    <string name="fav_unchecked">Not Favorite</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
